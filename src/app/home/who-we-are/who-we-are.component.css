@@ -1,0 +1,21 @@
+.btn-grad {
+    background-image: linear-gradient(to right, #171261 0%, #6156f9 100%);
+    border-radius: 20px;
+    font-size: 0.8em;
+  }
+
+div.pt-4 {
+    background-image: url(../../../assets/Group 182.svg);
+    background-repeat: repeat-x;
+    background-position-x: right;
+    background-size: 85%;
+
+}  
+
+#details h3 {
+    color: #44464a;
+}
+
+#details p {
+    color: #948f8f;
+}

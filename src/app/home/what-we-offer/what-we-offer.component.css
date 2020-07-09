@@ -1,0 +1,15 @@
+section {
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-image: url(../../../assets/Group 1238.svg);    
+    background-size: 90%;
+
+}
+
+.outer-container {
+    margin-top: 50px;
+}
+
+.container h3 {
+    color: #44464a;
+}
