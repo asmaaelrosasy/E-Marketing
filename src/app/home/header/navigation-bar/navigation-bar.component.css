@@ -1,0 +1,19 @@
+nav {
+    background: transparent;
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+    z-index: 997;
+}
+a.navbar-brand {
+    width: 50%;
+}
+
+a.navbar-brand img {
+    width: 30%;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: white;
+}
